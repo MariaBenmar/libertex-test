@@ -1,21 +1,19 @@
 package org.libertex;
 
+import java.lang.String;
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.Calendar;
-import java.util.Date;
 import java.util.Scanner;
-
-import static java.util.Calendar.*;
 
 public class CheckBirthDate {
 
-    public static void main(String[] args)
+    public static void main (String args[])
     {
         System.out.print("Enter date of birth in YYYY-MM-DD format: ");
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
         scanner.close();
+
         if (!input.isEmpty()) {
             LocalDate birthDate = LocalDate.parse(input);
             if (LocalDate.now().isAfter(birthDate)) {
