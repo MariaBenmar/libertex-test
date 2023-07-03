@@ -4,77 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b200950c-2f93-413b-a31c-17fc89397eb6" name="Changes" comment="CheckBirthDate and SearchGoogleTest">
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradleReports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/libertex/CheckBirthDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/libertex/SearchGoogleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/libertex/CheckBirthDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/libertex/SearchGoogleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b200950c-2f93-413b-a31c-17fc89397eb6" name="Changes" comment="CheckBirthDate and SearchGoogleTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,11 +62,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
@@ -274,8 +206,23 @@
       <workItem from="1688381828495" duration="410000" />
       <workItem from="1688382248998" duration="801000" />
       <workItem from="1688383063925" duration="57000" />
-      <workItem from="1688383126975" duration="15000" />
+      <workItem from="1688383126975" duration="773000" />
     </task>
+    <task id="LOCAL-00001" summary="CheckBirthDate and SearchGoogleTest">
+      <created>1688383207828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688383207828</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CheckBirthDate and SearchGoogleTest">
+      <created>1688383235899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688383235899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
