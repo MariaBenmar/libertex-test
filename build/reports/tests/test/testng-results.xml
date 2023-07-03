@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+  <suite started-at="2023-07-03T21:15:46 CEST" name="Gradle suite" finished-at="2023-07-03T21:16:03 CEST" duration-ms="16641">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T21:15:46 CEST" name="Gradle test" finished-at="2023-07-03T21:16:03 CEST" duration-ms="16641">
+      <class name="com.libertex.SearchGoogleTest">
+        <test-method signature="selenideSearchTest()[pri:0, instance:com.libertex.SearchGoogleTest@63eef88a]" started-at="2023-07-03T21:15:46 CEST" name="selenideSearchTest" finished-at="2023-07-03T21:16:03 CEST" duration-ms="16596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenideSearchTest -->
+      </class> <!-- com.libertex.SearchGoogleTest -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
 </testng-results>
